@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 280" role="img" aria-labelledby="aqTitle aqDesc">
+  <title id="aqTitle">مخطط مبسط لعلاقة الاستزراع السمكي النباتي</title>
+  <desc id="aqDesc">يُستخدم ماء تربية الأسماك لتغذية النباتات، ويمكن أن يعود الماء المعالَج إلى الأسماك.</desc>
+  <rect x="40" y="70" width="200" height="120" fill="#F7FAFC" stroke="#0E4D92" stroke-width="1.7" rx="2"/>
+  <rect x="260" y="70" width="200" height="120" fill="#F7FAFC" stroke="#0E4D92" stroke-width="1.7" rx="2"/>
+  <rect x="480" y="70" width="200" height="120" fill="#F7FAFC" stroke="#0E4D92" stroke-width="1.7" rx="2"/>
+  <g font-family="IBM Plex Sans Arabic, Noto Naskh Arabic, sans-serif" fill="#0A1628" text-anchor="middle">
+    <text x="140" y="124" font-size="20" font-weight="600">الأسماك</text>
+    <text x="140" y="148" font-size="13" fill="#3A4A5C">ماء التربية والعناصر المغذية</text>
+    <text x="360" y="124" font-size="20" font-weight="600">النباتات</text>
+    <text x="360" y="148" font-size="13" fill="#3A4A5C">الامتصاص في أحواض النبات</text>
+    <text x="580" y="124" font-size="20" font-weight="600">العودة</text>
+    <text x="580" y="148" font-size="13" fill="#3A4A5C">يمكن أن يعود الماء إلى الأسماك</text>
+  </g>
+  <g fill="none" stroke="#FF6B35" stroke-width="1.7">
+    <path d="M240 130h20"/>
+    <path d="M252 124l8 6-8 6"/>
+    <path d="M460 130h20"/>
+    <path d="M472 124l8 6-8 6"/>
+  </g>
+</svg>

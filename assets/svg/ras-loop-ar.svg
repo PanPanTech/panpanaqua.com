@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="rasTitle rasDesc">
+  <title id="rasTitle">مخطط حلقة الاستزراع المائي الدائري</title>
+  <desc id="rasDesc">ينتقل الماء من حوض التربية عبر إزالة المواد الصلبة والترشيح البيولوجي والتهوية ثم يعود إلى الحوض.</desc>
+  <rect width="720" height="420" fill="transparent"/>
+  <circle cx="360" cy="210" r="170" fill="none" stroke="#0A2540" stroke-opacity="0.10" stroke-width="1"/>
+  <circle cx="360" cy="210" r="128" fill="none" stroke="#0E4D92" stroke-opacity="0.14" stroke-width="1"/>
+  <circle cx="360" cy="210" r="86" fill="none" stroke="#00A3C4" stroke-opacity="0.35" stroke-width="1"/>
+  <path d="M250 118 H470 C560 118 610 168 610 210 C610 268 548 312 470 312 H250 C160 312 110 262 110 210 C110 152 172 118 250 118 Z"
+        fill="none" stroke="#0A2540" stroke-width="1.7"/>
+  <g fill="#F7FAFC" stroke="#0A2540" stroke-width="1.6">
+    <rect x="286" y="86" width="148" height="64" rx="2"/>
+    <rect x="516" y="178" width="128" height="64" rx="2"/>
+    <rect x="286" y="270" width="148" height="64" rx="2"/>
+    <rect x="76" y="178" width="128" height="64" rx="2"/>
+  </g>
+  <g font-family="IBM Plex Sans Arabic, Noto Naskh Arabic, sans-serif" fill="#0A1628" text-anchor="middle">
+    <text x="360" y="114" font-size="15" font-weight="600">حوض التربية</text>
+    <text x="360" y="132" font-size="12" fill="#3A4A5C">ماء حفظ الأسماك</text>
+    <text x="580" y="206" font-size="15" font-weight="600">إزالة المواد الصلبة</text>
+    <text x="580" y="224" font-size="12" fill="#3A4A5C">المخلفات والعلف غير المأكول</text>
+    <text x="360" y="298" font-size="15" font-weight="600">المرشح البيولوجي</text>
+    <text x="360" y="316" font-size="12" fill="#3A4A5C">تحويل النيتروجين</text>
+    <text x="140" y="206" font-size="15" font-weight="600">التهوية</text>
+    <text x="140" y="224" font-size="12" fill="#3A4A5C">ثم يعود الماء</text>
+  </g>
+  <g fill="none" stroke="#FF6B35" stroke-width="1.7" stroke-linecap="square">
+    <path d="M434 118 H500"/>
+    <path d="M496 112l10 6-10 6"/>
+    <path d="M580 242 V270"/>
+    <path d="M574 266l6 10 6-10"/>
+    <path d="M286 302 H180"/>
+    <path d="M190 296l-10 6 10 6"/>
+    <path d="M140 178 V148"/>
+    <path d="M134 152l6-10 6 10"/>
+  </g>
+  <text x="360" y="210" text-anchor="middle" font-family="IBM Plex Sans Arabic, sans-serif" font-size="18" fill="#0E4D92">حلقة RAS</text>
+  <text x="360" y="232" text-anchor="middle" font-family="IBM Plex Sans Arabic, sans-serif" font-size="12" fill="#5A6B7D">يُعالَج الماء ويُعاد استخدامه</text>
+</svg>

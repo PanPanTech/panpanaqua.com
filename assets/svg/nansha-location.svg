@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-labelledby="locTitle locDesc">
+  <title id="locTitle">Schematic location diagram of Nansha in the Greater Bay Area</title>
+  <desc id="locDesc">A simplified, not-to-scale diagram placing Nansha District at the mouth of the Pearl River in the Guangdong-Hong Kong-Macao Greater Bay Area. This is not a surveyed map. An official map embed is still to be added.</desc>
+  <rect width="800" height="520" fill="#E8F4F8"/>
+  <!-- water -->
+  <path d="M0 200 C120 180 180 240 260 280 C340 330 380 390 420 430 C500 490 620 500 800 470 L800 520 L0 520 Z" fill="#7EC8E3"/>
+  <path d="M0 250 C80 230 160 270 240 310 C320 350 400 420 520 455 C640 490 720 485 800 460 L800 520 L0 520 Z" fill="#4BA3C7" opacity="0.7"/>
+  <!-- land masses simplified -->
+  <path d="M0 0 L800 0 L800 200 C700 190 640 230 580 200 C500 160 460 120 360 110 C260 100 180 140 80 120 C40 112 0 140 0 160 Z" fill="#F7FAFC"/>
+  <path d="M520 0 L800 0 L800 180 C740 160 700 140 640 90 C600 50 560 20 520 0 Z" fill="#EEF6FA"/>
+  <!-- labels -->
+  <g font-family="Source Sans 3, Segoe UI, sans-serif" fill="#0A2540">
+    <text x="40" y="36" font-size="13" font-weight="600" letter-spacing="1.4" fill="#0E4D92">GREATER BAY AREA · SCHEMATIC ONLY</text>
+    <text x="200" y="88" font-size="15" font-weight="600">Guangzhou</text>
+    <text x="200" y="108" font-size="11" fill="#3A4A5C">north of the estuary</text>
+    <text x="620" y="64" font-size="14" font-weight="600">Hong Kong</text>
+    <text x="700" y="150" font-size="13" font-weight="600">Shenzhen</text>
+    <text x="40" y="430" font-size="12" fill="#0A2540">Pearl River estuary</text>
+    <text x="620" y="400" font-size="12">South China Sea</text>
+  </g>
+  <!-- Nansha marker -->
+  <circle cx="360" cy="300" r="16" fill="#FF6B35" fill-opacity="0.2" stroke="#FF6B35" stroke-width="2"/>
+  <circle cx="360" cy="300" r="6" fill="#FF6B35"/>
+  <rect x="384" y="268" width="250" height="64" rx="2" fill="#0A2540"/>
+  <text x="396" y="290" font-family="Fraunces, Palatino, serif" font-size="16" fill="#F7FAFC">Nansha District</text>
+  <text x="396" y="312" font-family="Source Sans 3, sans-serif" font-size="11" fill="#D6EEF5">No. 4, 5 Nanjiang 2nd Road</text>
+  <text x="396" y="326" font-family="Source Sans 3, sans-serif" font-size="11" fill="#D6EEF5">Zhujiang Subdistrict, Guangzhou</text>
+  <text x="40" y="500" font-family="Source Sans 3, sans-serif" font-size="11" fill="#0A2540">Not a surveyed map. Scale is indicative only. An official map or permitted embed is still to be added.</text>
+</svg>
